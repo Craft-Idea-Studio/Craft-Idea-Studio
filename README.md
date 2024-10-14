@@ -9,13 +9,13 @@ CSS: I use CSS to style web pages, ensuring a consistent and visually appealing 
 JavaScript: I leverage JavaScript to add interactivity and dynamic functionality to websites.
 
 Design:</br>
-Penpot: I utilize Penpot for collaborative design and prototyping, fostering seamless communication with teams.
-GIMP: My image editing tool of choice for creating and manipulating graphics for web projects.
+Penpot:</br>I utilize Penpot for collaborative design and prototyping, fostering seamless communication with teams.</br>
+GIMP:</br>My image editing tool of choice for creating and manipulating graphics for web projects.
 
 Productivity:</br>
-Google Suite (Word, Sheets, Presentation): I'm proficient in using Google's suite of productivity tools for documentation, data management, and presentations.
-LibreOffice: I'm familiar with LibreOffice's suite of document creation and editing applications.
-Microsoft Office: I have experience using Microsoft Office for various tasks, including document creation and presentations.
+Google Suite (Word, Sheets, Presentation):</br>I'm proficient in using Google's suite of productivity tools for documentation, data management, and presentations.</br>
+LibreOffice:</br>I'm familiar with LibreOffice's suite of document creation and editing applications.</br>
+Microsoft Office:</br>I have experience using Microsoft Office for various tasks, including document creation and presentations.
 
 Projects:</br>
 This repository will house my projects, demonstrating my skills and showcasing my creative approach to web development and design.
