@@ -34,3 +34,6 @@ SOFTWARE I USE</br>
 </img>
 <img>![JAVASCRIPT-2](https://github.com/user-attachments/assets/52f32d0b-0afc-4946-9670-c944ee01eca3)
 </img>
+<img>![GIMP](https://github.com/user-attachments/assets/1c58d6b5-af92-40a3-b65e-321a5919eb24)
+</img>
+
