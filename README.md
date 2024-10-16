@@ -25,7 +25,7 @@ Projects:</br>
 This repository will house my projects, demonstrating my skills and showcasing my creative approach to web development and design.
 
 Contact:</br> 
-Please feel free to contact me through [craftidea128@gmail.com] to discuss potential collaborations or projects.
+Please feel free to contact me through [craftidea128@gmail.com] to discuss potential collaborations or projects.</br></br>
 
 SOFTWARE I USE</br>
 <img>![HTML-2](https://github.com/user-attachments/assets/cadd7e38-00f5-4627-8b63-01f97f775f13)
