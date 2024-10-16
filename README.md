@@ -27,7 +27,7 @@ This repository will house my projects, demonstrating my skills and showcasing m
 Contact:</br> 
 Please feel free to contact me through [craftidea128@gmail.com] to discuss potential collaborations or projects.</br></br>
 
-SOFTWARE I USE</br>
+SOFTWARE I USE:</br>
 <img>![HTML-2](https://github.com/user-attachments/assets/cadd7e38-00f5-4627-8b63-01f97f775f13)
 </img>
 <img>![CSS-2](https://github.com/user-attachments/assets/ef37ac28-d586-4ac2-b27c-799828332d3a)
