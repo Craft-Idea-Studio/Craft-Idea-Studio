@@ -44,3 +44,7 @@ SOFTWARE I USE</br>
 </img>
 <img>![GOOGLE DOCS](https://github.com/user-attachments/assets/b5b0f09f-e01b-4363-8ab8-7883d3646c24)
 </img>
+<img>![simple-icons--penpot](https://github.com/user-attachments/assets/ce44a38b-ea74-4755-b466-f9efe67c4ce4)
+</img>
+<img>![FIGMA-1](https://github.com/user-attachments/assets/0b509334-62eb-4cad-b3d0-fc35fa4ac568)
+</img>
