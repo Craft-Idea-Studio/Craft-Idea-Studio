@@ -30,13 +30,13 @@ Please feel free to contact me through [craftidea128@gmail.com] to discuss poten
 SOFTWARE I USE</br>
 <img>![HTML-2](https://github.com/user-attachments/assets/cadd7e38-00f5-4627-8b63-01f97f775f13)
 </img>
-
 <img>![CSS-2](https://github.com/user-attachments/assets/ef37ac28-d586-4ac2-b27c-799828332d3a)
 </img>
-
 <img>![JAVASCRIPT-2](https://github.com/user-attachments/assets/52f32d0b-0afc-4946-9670-c944ee01eca3)
 </img> 
-
 <img>![GIMP](https://github.com/user-attachments/assets/1c58d6b5-af92-40a3-b65e-321a5919eb24)
 </img> 
-
+<img>![devicon--vscode](https://github.com/user-attachments/assets/58eddebd-3b3f-4a7d-88fe-c71840e019dd)
+</img>
+<img>![LIBREOF-2](https://github.com/user-attachments/assets/572b03bf-ccf2-4854-9346-59c2f1b54ebc)
+</img>
