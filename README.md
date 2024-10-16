@@ -42,3 +42,5 @@ SOFTWARE I USE</br>
 </img>
 <img>![MIC-OFFICE-1](https://github.com/user-attachments/assets/303167f0-a315-4a7f-9a74-d56c1d513162)
 </img>
+<img>![GOOGLE DOCS](https://github.com/user-attachments/assets/b5b0f09f-e01b-4363-8ab8-7883d3646c24)
+</img>
