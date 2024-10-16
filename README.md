@@ -38,5 +38,5 @@ SOFTWARE I USE</br>
 </img> 
 <img>![devicon--vscode](https://github.com/user-attachments/assets/58eddebd-3b3f-4a7d-88fe-c71840e019dd)
 </img>
-<img>![LIBREOF-2](https://github.com/user-attachments/assets/572b03bf-ccf2-4854-9346-59c2f1b54ebc)
+<img>![LIBREOF-3](https://github.com/user-attachments/assets/bbdfac0d-57a4-4e42-9ada-e47380cafb2f)
 </img>
