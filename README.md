@@ -26,5 +26,5 @@ This repository will house my projects, demonstrating my skills and showcasing m
 Contact:</br> 
 Please feel free to contact me through [craftidea128@gmail.com] to discuss potential collaborations or projects.</br></br>
 
-<img>![SKILL](https://github.com/user-attachments/assets/8845be4a-0051-43cf-bef7-b964590be696)
+<img>![SKILL-2](https://github.com/user-attachments/assets/21679382-7995-4a65-bc35-067c990eade2)
 </img>
