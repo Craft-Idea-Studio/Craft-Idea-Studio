@@ -1,5 +1,4 @@
-<img>![BOX LOGO VERSION 2](https://github.com/user-attachments/assets/f3f12fda-cdc8-427f-a9da-c2a3f9650780)
-</img>
+<img>![MISTER](https://github.com/user-attachments/assets/b1e80241-f68a-4138-b592-49accf8edeef)</img>
 
 
 About Me:</br>
