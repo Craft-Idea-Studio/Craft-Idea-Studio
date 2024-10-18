@@ -26,24 +26,5 @@ This repository will house my projects, demonstrating my skills and showcasing m
 Contact:</br> 
 Please feel free to contact me through [craftidea128@gmail.com] to discuss potential collaborations or projects.</br></br>
 
-SOFTWARE I USE:</br>
-<img>![HTML-2](https://github.com/user-attachments/assets/cadd7e38-00f5-4627-8b63-01f97f775f13)
-</img>
-<img>![CSS-2](https://github.com/user-attachments/assets/ef37ac28-d586-4ac2-b27c-799828332d3a)
-</img>
-<img>![JAVASCRIPT-2](https://github.com/user-attachments/assets/52f32d0b-0afc-4946-9670-c944ee01eca3)
-</img> 
-<img>![GIMP](https://github.com/user-attachments/assets/1c58d6b5-af92-40a3-b65e-321a5919eb24)
-</img> 
-<img>![devicon--vscode](https://github.com/user-attachments/assets/58eddebd-3b3f-4a7d-88fe-c71840e019dd)
-</img>
-<img>![LIBREOF-3](https://github.com/user-attachments/assets/f5e24297-434e-4736-b489-b08754966fc0)
-</img>
-<img>![MIC-OFFICE-1](https://github.com/user-attachments/assets/303167f0-a315-4a7f-9a74-d56c1d513162)
-</img>
-<img>![GOOGLE DOCS](https://github.com/user-attachments/assets/b5b0f09f-e01b-4363-8ab8-7883d3646c24)
-</img>
-<img>![simple-icons--penpot](https://github.com/user-attachments/assets/ce44a38b-ea74-4755-b466-f9efe67c4ce4)
-</img>
-<img>![FIGMA-44](https://github.com/user-attachments/assets/e884d598-4f47-491b-9071-a896cf186b58)
+<img>![SKILL](https://github.com/user-attachments/assets/8845be4a-0051-43cf-bef7-b964590be696)
 </img>
