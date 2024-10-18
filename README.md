@@ -37,7 +37,7 @@ SOFTWARE I USE:</br>
 </img> 
 <img>![devicon--vscode](https://github.com/user-attachments/assets/58eddebd-3b3f-4a7d-88fe-c71840e019dd)
 </img>
-<img>![Libre logo](https://github.com/user-attachments/assets/45e94baf-aac2-470f-b128-ecbf3eaa329d)
+<img>![LIBREOF-3](https://github.com/user-attachments/assets/f5e24297-434e-4736-b489-b08754966fc0)
 </img>
 <img>![MIC-OFFICE-1](https://github.com/user-attachments/assets/303167f0-a315-4a7f-9a74-d56c1d513162)
 </img>
