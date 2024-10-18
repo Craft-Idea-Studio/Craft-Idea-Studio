@@ -45,5 +45,5 @@ SOFTWARE I USE:</br>
 </img>
 <img>![simple-icons--penpot](https://github.com/user-attachments/assets/ce44a38b-ea74-4755-b466-f9efe67c4ce4)
 </img>
-<img>![FIGMA-1](https://github.com/user-attachments/assets/0b509334-62eb-4cad-b3d0-fc35fa4ac568)
+<img>![FIG-22](https://github.com/user-attachments/assets/f4876e9a-aa51-4675-b6f7-b316a577a8d3)
 </img>
